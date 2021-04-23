@@ -1,1 +1,6 @@
-# Bienvenido a mi aplicacion del programa de Git desde Cero con EDteam
+# Documentacion del proyecto 
+
+En este curso aprenderas: 
+- Instalacion de GIT
+- Creacion de un repositorio
+- ... y mucho mas
